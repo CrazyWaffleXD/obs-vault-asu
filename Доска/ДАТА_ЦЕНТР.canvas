@@ -4,6 +4,6 @@
 		{"id":"24aadafaf97be472","type":"file","file":"Доска/Тема 1_1.md","x":-1520,"y":80,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"4598b34c965e5c8a","fromNode":"c076c40f23fdf63e","fromSide":"left","toNode":"24aadafaf97be472","toSide":"right","fromEnd":"arrow","color":"4","label":"# Тема 1_1"}
+		{"id":"4598b34c965e5c8a","fromNode":"c076c40f23fdf63e","fromSide":"left","toNode":"24aadafaf97be472","toSide":"right","fromEnd":"arrow","color":"4","label":"Тема 1_1"}
 	]
 }
