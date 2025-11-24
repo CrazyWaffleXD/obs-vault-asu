@@ -1,7 +1,6 @@
 {
 	"nodes":[
-		{"id":"1b5d8e4faead3ce0","type":"text","text":"# **Центр навигации**\n\n[[ДАТА_ЦЕНТР.canvas|Без названия]]","x":-65,"y":-80,"width":485,"height":380},
-		{"id":"b9719d159aeaa5f0","type":"text","text":"# Тест","x":-560,"y":-156,"width":316,"height":152}
+		{"id":"16307b3c4b064516","x":-140,"y":20,"width":380,"height":520,"type":"text","text":"# Цетр навигации\n\n"}
 	],
 	"edges":[]
 }
