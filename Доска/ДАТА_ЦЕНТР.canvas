@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"16307b3c4b064516","x":-140,"y":20,"width":380,"height":520,"type":"text","text":"# Цетр навигации\n\n"}
+		{"id":"c076c40f23fdf63e","x":-140,"y":20,"width":380,"height":520,"type":"file","file":"Центр навигации.md"},
+		{"id":"24aadafaf97be472","x":-560,"y":40,"width":400,"height":400,"type":"file","file":"Доска/Тема 1_1.md"}
 	],
 	"edges":[]
 }
