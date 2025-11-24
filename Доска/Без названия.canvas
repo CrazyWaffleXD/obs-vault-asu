@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"b9719d159aeaa5f0","x":-196,"y":108,"width":250,"height":60,"type":"text","text":""},
-		{"id":"1b5d8e4faead3ce0","x":-65,"y":-80,"width":485,"height":380,"type":"text","text":"# **Центр навигации**\n\n"}
+		{"id":"1b5d8e4faead3ce0","type":"text","text":"# **Центр навигации**\n\n","x":-65,"y":-80,"width":485,"height":380},
+		{"id":"b9719d159aeaa5f0","type":"text","text":"# Тест","x":-560,"y":-156,"width":316,"height":152}
 	],
 	"edges":[]
 }
