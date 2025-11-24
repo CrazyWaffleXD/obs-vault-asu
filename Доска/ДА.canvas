@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"1b5d8e4faead3ce0","type":"text","text":"# **Центр навигации**\n\n[[Доска/Без названия.canvas|Без названия]]","x":-65,"y":-80,"width":485,"height":380},
+		{"id":"1b5d8e4faead3ce0","type":"text","text":"# **Центр навигации**\n\n[[ДА.canvas|Без названия]]","x":-65,"y":-80,"width":485,"height":380},
 		{"id":"b9719d159aeaa5f0","type":"text","text":"# Тест","x":-560,"y":-156,"width":316,"height":152}
 	],
 	"edges":[]
