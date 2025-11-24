@@ -2,12 +2,12 @@
 	"nodes":[
 		{"id":"3d24ba09a4529208","type":"file","file":"{551E3AE5-D09B-4DBA-AA2E-5BF15BDC4FB3}.png","x":480,"y":-400,"width":199,"height":400},
 		{"id":"096d292e5e8c73fb","type":"file","file":"{62E48BE5-67BB-4025-9F97-55F724E87670}.png","x":80,"y":-400,"width":221,"height":400},
-		{"id":"5fce706f0a9ef817","type":"file","file":"{A3DCAC7F-4935-44B8-83C6-430224824E77}.png","x":480,"y":100,"width":205,"height":400},
+		{"id":"5fce706f0a9ef817","type":"file","file":"Экраны/Расписание/{A3DCAC7F-4935-44B8-83C6-430224824E77}.png","x":480,"y":100,"width":205,"height":400},
 		{"id":"77459b2251eeecb4","type":"file","file":"{3249B00C-2609-400F-BA85-CB949F626F60}.png","x":480,"y":580,"width":205,"height":309},
-		{"id":"bc7959944d0beca4","type":"file","file":"{DD7F4614-5F82-4002-AEB5-E34DE0210DB4}.png","x":780,"y":-400,"width":198,"height":399},
-		{"id":"b51e777f4bfdfbc0","type":"file","file":"{27D64AA8-16AC-45D4-9BD2-ECADBF6DDC19}.png","x":780,"y":100,"width":201,"height":400},
+		{"id":"bc7959944d0beca4","type":"file","file":"Экраны/Объявления/{DD7F4614-5F82-4002-AEB5-E34DE0210DB4}.png","x":780,"y":-400,"width":198,"height":399},
+		{"id":"b51e777f4bfdfbc0","type":"file","file":"Экраны/Помощь/{27D64AA8-16AC-45D4-9BD2-ECADBF6DDC19}.png","x":780,"y":100,"width":201,"height":400},
 		{"id":"ffd63f947f1b097a","type":"file","file":"{B3E69D4F-6B94-49E3-BEC6-E6D7A1EBA716}.png","x":782,"y":580,"width":199,"height":399},
-		{"id":"9fc729490f8cc9d3","type":"file","file":"{083EDD82-47D3-4033-A3CD-3E7AF08D3598}.png","x":1080,"y":-400,"width":197,"height":400}
+		{"id":"9fc729490f8cc9d3","type":"file","file":"Экраны/Настройки/{083EDD82-47D3-4033-A3CD-3E7AF08D3598}.png","x":1080,"y":-400,"width":197,"height":400}
 	],
 	"edges":[]
 }
