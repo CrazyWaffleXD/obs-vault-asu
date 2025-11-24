@@ -1,7 +1,11 @@
 {
 	"nodes":[
-		{"id":"c076c40f23fdf63e","x":-140,"y":20,"width":380,"height":520,"type":"file","file":"Центр навигации.md"},
-		{"id":"24aadafaf97be472","x":-560,"y":40,"width":400,"height":400,"type":"file","file":"Доска/Тема 1_1.md"}
+		{"id":"c076c40f23fdf63e","type":"file","file":"Центр навигации.md","x":-140,"y":20,"width":380,"height":520},
+		{"id":"24aadafaf97be472","type":"file","file":"Доска/Тема 1_1.md","x":-560,"y":40,"width":400,"height":400},
+		{"id":"7143d369d3042bc0","type":"text","text":"# тема 1_1","x":-500,"y":480,"width":250,"height":60},
+		{"id":"6bde340ee123eef1","x":-500,"y":640,"width":250,"height":60,"type":"text","text":"# тема 1_1"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"4598b34c965e5c8a","fromNode":"7143d369d3042bc0","fromSide":"bottom","toNode":"6bde340ee123eef1","toSide":"top"}
+	]
 }
