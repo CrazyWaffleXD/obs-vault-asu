@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"c076c40f23fdf63e","type":"file","file":"Доска/Центр навигации.md","x":-140,"y":20,"width":380,"height":520},
-		{"id":"24aadafaf97be472","type":"file","file":"Доска/Тема 1_1.md","x":-1520,"y":80,"width":400,"height":400}
+		{"id":"24aadafaf97be472","type":"file","file":"Доска/Тема 1_1.md","x":-1520,"y":80,"width":400,"height":400},
+		{"id":"c076c40f23fdf63e","type":"file","file":"Доска/Центр навигации.md","x":-320,"y":-300,"width":380,"height":520},
+		{"id":"bc09eb3cc8965c92","x":-1020,"y":800,"width":400,"height":400,"type":"file","file":"Тема 1_2.md"}
 	],
 	"edges":[
-		{"id":"4598b34c965e5c8a","fromNode":"c076c40f23fdf63e","fromSide":"left","toNode":"24aadafaf97be472","toSide":"right","fromEnd":"arrow","color":"4","label":"Тема 1_1"}
+		{"id":"4598b34c965e5c8a","fromNode":"c076c40f23fdf63e","fromSide":"left","toNode":"24aadafaf97be472","toSide":"right","fromEnd":"arrow","color":"4","label":"Тема 1_1"},
+		{"id":"05efca534c282b08","fromNode":"c076c40f23fdf63e","fromSide":"left","toNode":"bc09eb3cc8965c92","toSide":"top","color":"3","label":"Тема 1_2"}
 	]
 }
