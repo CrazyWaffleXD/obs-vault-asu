@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## В планах
 
-- [ ] ываываы @{2025-11-28} ^w4sjnz
+- [ ] тест @{2025-11-28} ^w4sjnz
 
 
 ## В разработке
@@ -25,6 +25,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":true,"hide-card-count":true,"full-list-lane-width":true,"move-tags":true,"tag-colors":[],"show-relative-date":true}
 ```
 %%
