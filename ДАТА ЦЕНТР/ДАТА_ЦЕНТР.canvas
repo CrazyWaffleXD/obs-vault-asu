@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c076c40f23fdf63e","type":"file","file":"ДАТА ЦЕНТР/Центр навигации.md","x":-320,"y":-300,"width":380,"height":520},
+		{"id":"bc09eb3cc8965c92","type":"file","file":"ДАТА ЦЕНТР/Задачи.md","x":-1120,"y":-240,"width":400,"height":400},
+		{"id":"1b6ba6c0016c0b5b","type":"file","file":"ДАТА ЦЕНТР/Обратная связь.md","x":-320,"y":520,"width":400,"height":400},
+		{"id":"6680cb094ea66876","x":-340,"y":-1000,"width":400,"height":400,"type":"file","file":"ДАТА ЦЕНТР/Важная иформация.md"}
+	],
+	"edges":[
+		{"id":"05efca534c282b08","fromNode":"c076c40f23fdf63e","fromSide":"left","toNode":"bc09eb3cc8965c92","toSide":"right","color":"4","label":"Задачи"},
+		{"id":"01cbc08e5509dcbb","fromNode":"c076c40f23fdf63e","fromSide":"bottom","toNode":"1b6ba6c0016c0b5b","toSide":"top","color":"4","label":"Обратная связь"},
+		{"id":"b8cc1c9778c11329","fromNode":"c076c40f23fdf63e","fromSide":"top","toNode":"6680cb094ea66876","toSide":"bottom","color":"1","label":"ВАЖНАЯ ИНФОРМАЦИЯ"}
+	]
+}
